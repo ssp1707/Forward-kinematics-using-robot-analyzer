@@ -27,7 +27,7 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 
 ![image](https://user-images.githubusercontent.com/36288975/170172719-ed7befc9-2894-4344-bfd5-be831bb05308.png)
 
- ![image](https://user-images.githubusercontent.com/36288975/170172766-b8aeb788-7fd7-4de7-b340-f04656707ebd.png)
+![image](https://user-images.githubusercontent.com/36288975/170172766-b8aeb788-7fd7-4de7-b340-f04656707ebd.png)
 
  
 
@@ -38,41 +38,11 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 
 
 ### SIMULATION 
- 
- 
- 
- 
- 
- 
- 
- ### PLOT 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 
+![2 1](https://user-images.githubusercontent.com/75234965/199652387-13188952-f984-429b-8f42-5334998fee13.PNG)
  
+### PLOT 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
+![2 2](https://user-images.githubusercontent.com/75234965/199652405-8273d7cd-499f-41b4-bad4-bd4898c19dc1.PNG)
 
 ### RESULTS :  
